@@ -57,6 +57,10 @@ git push origin main
 ```bash
 git push -u origin main
 ```
+หรือ
+```bash
+git push
+```
 
 หมายเหตุและข้อแนะนำ
 --
