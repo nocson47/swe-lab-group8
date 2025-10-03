@@ -1,4 +1,4 @@
-# SWE Lab Group 8
+# SWE Lab Group 8[คนภูธร]
 Repository สำหรับการทำงานกลุ่มวิชา Software Engineering Lab (เวอร์ชันคอนโทรล)
 
 คำอธิบายย่อ
